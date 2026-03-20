@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background: #fff;
+  color: #2e2f42;
 }
 
 ul {
@@ -13,6 +14,10 @@ a {
 
 address {
   font-style: normal;
+}
+
+button {
+  cursor: pointer;
 }
 
 .section-title {
@@ -198,7 +203,7 @@ address {
 .footer-logo {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
